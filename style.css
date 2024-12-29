@@ -1,0 +1,125 @@
+h1.tahoma {
+    font-family: Tahoma;
+}
+
+h1.arial {
+    font-family: Arial;
+    margin-bottom: 0;
+}
+
+h2.arial {
+    font-family: Arial;
+    font-style: italic;
+    color: red;
+    margin-top: 3px;
+}
+
+div.verdana {
+    font-family: Verdana;
+}
+
+p.grey {
+    color: rgb(160, 160, 160);
+}
+
+p.introduction {
+    width: 300px;
+}
+
+button.get-started {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+div.arial {
+    font-family: Arial;
+    text-align: center;
+    width: 500px;
+    text-align: center;
+}
+
+a.learn-more {
+    text-decoration: none;
+}
+
+div.macbook {
+    width: 500px;
+    text-align: center;
+    margin-top: 30px;
+    font-family: Arial;
+}
+
+h3.orange {
+    color: orange;
+    margin-bottom: 0;
+}
+
+h2.macbook {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h1.macbook {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+button.buy {
+    background-color: rgb(3, 98, 251);
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+div.usd {
+    font-family: Arial;
+}
+
+p.usd-green {
+    color: green;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+p.usd-grey {
+    color: grey;
+    margin-top: 0;
+}
+
+span.usd-grey {
+    color: grey;
+    font-size: 15px;
+}
+
+span.usd-red {
+    color: red;
+}
+
+h2.usd {
+    margin-bottom: 0px;
+}
+
+p.bold {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+span.freecodecamp {
+    color: grey;
+}
+
+p.email {
+    margin-top: 0;
+    width: 500px;
+}
+
+span.blue {
+    color: rgb(0, 191, 254);
+}
